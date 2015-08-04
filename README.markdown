@@ -5,7 +5,7 @@ to allow the starting of Docker jobs through Marathon, a _Mesos slave_ image
 was needed that uses a socket to relay any docker related commands to the 
 upper dream level :wink:
 
-<iframe src="//giphy.com/embed/umtcpyAgXa3aE" width="480" height="312" frameBorder="0" style="max-width: 100%" class="giphy-embed" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<img src="http://i.giphy.com/mFb3jUTKcxbtm.gif" width="500" height="205" alt="Spinning totem">
 
 There are posts online describing how to start a 
 [Mesos cluster using Docker][mesos-docker]. Use the [garland](https://registry.hub.docker.com/u/garland)
